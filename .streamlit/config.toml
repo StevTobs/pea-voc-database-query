@@ -1,0 +1,14 @@
+# เปิดได้เฉพาะบนเครื่องนี้ และไม่ส่งสถิติการใช้งานออกภายนอก
+[server]
+address = "127.0.0.1"
+port = 8501
+headless = false
+runOnSave = false
+fileWatcherType = "none"
+
+[browser]
+serverAddress = "localhost"
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

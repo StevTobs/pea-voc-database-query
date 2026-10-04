@@ -1,0 +1,4 @@
+psycopg[binary]>=3.2,<4
+python-dotenv>=1.0,<2
+paramiko>=3.4,<5
+streamlit>=1.48,<2
